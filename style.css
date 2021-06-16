@@ -3,3 +3,8 @@
   padding: 0;
 }
 /*# sourceMappingURL=style.css.map */
+
+canvas {
+  border: 2px solid black;
+  background-color: black;
+}
